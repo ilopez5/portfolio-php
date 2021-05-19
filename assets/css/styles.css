@@ -1,0 +1,99 @@
+.my-navbar {
+	padding-top: 1em;
+	padding-bottom: 1em;
+	background-color: #596475;
+	color: #ecfeff;
+}
+
+.my-footer {
+	background-color: #596475;
+	color: #ecfeff;
+}
+
+.sub-line {
+	padding-bottom: 1em;;
+	border-bottom:1px #e5e5e5 solid;
+}
+.right-line {
+	border-right: 1px #e5e5e5 solid;
+}
+
+/* colors */
+h1, h2, h3, h4, h5 {
+	color: #004450;
+}
+
+a,
+a:link,
+a:visited,
+a:hover,
+a:active {
+	color:#f2feff;
+}
+
+.sub-heading,
+.a-alt {
+	color:#226b70e5 !important;
+}
+.a-std {
+	color: #000000 !important;
+}
+
+.aboutme {
+	font-size: 1.5em;
+	font-weight: 500;
+}
+
+.banner, .btn-email {
+	background-color: #B8D4E3;
+}
+.banner-alt, .btn-sms {
+	background-color: #FFBFA0;
+}
+.icons {
+	font-size:36px;
+	color: #ecfeff;
+}
+.caption-color {
+	color: #a04311;
+}
+
+/* spacing */
+.marg-top {
+	margin-top:1em;
+}
+.marg-bot {
+	margin-bottom:1em;
+}
+.indent, .marg-left {
+	margin-left: 2em;
+}
+.pad-top {
+	padding-top: 1em;
+}
+.pad-top-dbl {
+	padding-top: 2em;
+}
+.pad-bot {
+	padding-bottom: 1em;
+}
+.pad-bot-dbl {
+	padding-bottom: 2em;
+}
+.icon-pad {
+	padding-right:1em;
+}
+.carousel-caption {
+    position: relative;
+    left: 0;
+    top: 0;
+}
+
+
+/* fonts */
+h1, h2, h3, h4, h5 {
+	font-family: 'latolight' !important;
+}
+a, p, .lato {
+	font-family: 'latoregular';
+}

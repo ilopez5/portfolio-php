@@ -1,0 +1,9 @@
+{
+    "name": "ilopez5/fishtank",
+    "description": "just practicing using composer",
+    "require": {
+        "monolog/monolog": "^1.17",
+        "vlucas/phpdotenv": "^4.1",
+        "sendgrid/sendgrid": "^7.4"
+    }
+}
